@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "canaux": {
+    "test": {"android": null, "ios": null},
+    "production": {"android": null, "ios": null}
+  }
+}
